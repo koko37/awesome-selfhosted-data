@@ -1,0 +1,11 @@
+name: p2p.gifts
+website_url: https://p2p.gifts
+source_code_url: https://github.com/mybucks-online/p2p.gifts
+description: Peer-to-peer crypto gifting wizard.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+demo_url: https://p2p.gifts
